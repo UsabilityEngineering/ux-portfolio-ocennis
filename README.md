@@ -1,4 +1,4 @@
-# Olivia Ennis UX Portfolio
+# Olivia Ennis - UX Portfolio
 
 I'm a Computer Information Systems major and I'm excited to learn more about usability engineering.
 
