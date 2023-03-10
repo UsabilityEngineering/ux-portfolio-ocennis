@@ -8,7 +8,7 @@ The last thing we needed to get was White claws from a refrigerated section of t
 
 ![IMG_0344](https://user-images.githubusercontent.com/111928724/224426343-49586a28-6a33-440b-b6cd-5b3bde694628.jpg)
 
-I couldn’t tell which side of the door had the handle. The design wasn’t very effective in communicating to me how to open the door. Even after getting close, it was difficult to see where I was supposed to grab. I assumed if I just grabbed around I would find it. I first grabbed the left side of the door, which I then found out was the hinge. I assumed my problems were over so I went to grab the handle on the right side with my right hand. I hit curved plastic, not the handle. Due to general grocery store door **conventions**, I assumed the handle was able to be grabbed from the right and left sides. This was not the case.
+I couldn’t tell which side of the door had the handle. The design wasn’t very **effective** in communicating to me how to open the door. Even after getting close, it was difficult to see where I was supposed to grab. I assumed if I just grabbed around I would find it. I first grabbed the left side of the door, which I then found out was the hinge. I assumed my problems were over so I went to grab the handle on the right side with my right hand. I hit curved plastic, not the handle. Due to general grocery store door **conventions**, I assumed the handle was able to be grabbed from the right and left sides. This was not the case.
 
 ![IMG_0345](https://user-images.githubusercontent.com/111928724/224442987-072eef6d-0833-4ee7-9427-17ff5d444955.jpg)
 
