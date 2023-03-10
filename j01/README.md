@@ -12,7 +12,7 @@ I couldn’t tell which side of the door had the handle. The design wasn’t ver
 
 ![IMG_0345](https://user-images.githubusercontent.com/111928724/224442987-072eef6d-0833-4ee7-9427-17ff5d444955.jpg)
 
-I then tilted my head to see that the handle was curved plastic that could only be grabbed from the left side. My **mental model** of how I assumed the door would open was different from the **conceptual model** of how to actually open the door. Most grocery stores have handles that are easily visible and that are open on both sides. 
+I then tilted my head to see that the handle was curved plastic that could only be grabbed from the left side. My **mental model** of how I assumed the door would open was different from the **conceptual model** of how to actually open the door. Most grocery stores have handles that are easily visible and that are open on both sides which caused my confusion. 
 
 ![IMG_0354](https://user-images.githubusercontent.com/111928724/224445354-509a8616-1185-45a7-9835-5134744e6174.jpg)
 
