@@ -2,7 +2,7 @@
 
 Olivia Ennis - March 7, 2023
 
-I don't generally shop at Winco but a few weeks ago my roommate and I decided to go there to buy groceries. We went around the store grabbing the few things we needed for the week. As we neared the end of our shopping our hands were fairly full, me in particular I only had my right hand free as we headed to get our very last item. 
+I don't generally shop at Winco but a few weeks ago my roommate and I decided to go there to buy groceries. We went around the store grabbing the few things we needed for the week. As we neared the end of our shopping our hands were fairly full, I, in particular, only had my right hand free as we headed to get our very last item. 
 
 The last thing we needed to get was White claws from a refrigerated section of the store. Most grocery stores have refrigerated sections where products will be placed if they need to be in a cold environment. Of course, this means doors are needed to access these products Which is where my problem came in. 
 
