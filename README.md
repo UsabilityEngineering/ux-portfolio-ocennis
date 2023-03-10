@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Opening a Door](j01/)
