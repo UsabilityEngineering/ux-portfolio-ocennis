@@ -4,7 +4,7 @@ I'm a Computer Information Systems major and will be graduating in May of this y
 
 ## UX Team Project
 
-Coming soon.
+<a href="https://usabilityengineering.github.io/ChoreNoMore/"> Chore No More </a>
 
 ## UX Journal
 
