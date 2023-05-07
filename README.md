@@ -9,4 +9,5 @@ I'm a Computer Information Systems major and will be graduating in May of this y
 ## UX Journals
 
 [Opening a Door](j01/)
+
 [Opening a Door - Revised](j02/)
