@@ -6,6 +6,7 @@ I'm a Computer Information Systems major and will be graduating in May of this y
 
 <a href="https://usabilityengineering.github.io/ChoreNoMore/"> Chore No More </a>
 
-## UX Journal
+## UX Journals
 
 [Opening a Door](j01/)
+[Opening a Door - Revised](j02/)
