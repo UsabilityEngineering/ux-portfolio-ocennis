@@ -14,7 +14,7 @@ I couldn’t tell which side of the door had the handle. The design wasn’t ver
 
 I then tilted my head to see that the handle was curved plastic that could only be grabbed from the left side. My **mental model** of how I assumed the door would open was different from the **conceptual model** of how to actually open the door. Most grocery stores have handles that are easily visible and that are open on both sides which caused my confusion. 
 
-<img src="https://user-images.githubusercontent.com/111928724/224445354-509a8616-1185-45a7-9835-5134744e6174.jpg" width=600>
+<img src="https://user-images.githubusercontent.com/111928724/224445354-509a8616-1185-45a7-9835-5134744e6174.jpg" width=500>
 
 I **recovered from my initial error**, however, because my left hand was full this meant I had to open the door with my right hand at an uncomfortable angle. This made the interaction much less **satisfying** because I was being forced to adhere to the inflexible nature of the design. I believe Winco’s designers were attempting to create a door that looked aesthetically pleasing and they didn’t think much of the practicality of this choice. Although I do think this interaction is **learnable** I still think my experience would’ve been much more positive without having to use trial and error. 
 
